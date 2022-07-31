@@ -2,7 +2,7 @@
 ### 👋 Olá, sou o Riciere, mas pode me chamar de Rici.
 
 
-Sou designer e atualmente venho me dedicando a em ux/ui e também estudando um pouco de html e CSS.
+Sou designer e atualmente venho me dedicando a ux/ui e também estudando um pouco de programação html e CSS.
 
 
 ![image](https://user-images.githubusercontent.com/98134461/182042078-9c2c1c9f-8767-4459-acb2-762114fe1d2d.png)
